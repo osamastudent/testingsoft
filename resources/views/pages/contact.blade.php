@@ -3,10 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Contact us</title>
 </head>
 <body>
-    <h1>This is the about page.</h1>
-    <p>git push origin about-page</p>
+    <h1>This is the contact us page</h1>
 </body>
 </html>
